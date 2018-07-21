@@ -19,5 +19,5 @@ To run the server.js interface please follow the steps below:
 ### Operation
 
 Home page:
-![Home Page](https://raw.githubusercontent.com/ahoshiro/FriendFinder/app/images/Home page.jpg)
-![Survey Page](https://raw.githubusercontent.com/ahoshiro/FriendFinder/app/images/Survey.jpg)
+![Home Page](https://github.com/ahoshiro/FriendFinder/app/images/Home page.jpg)
+![Survey Page](https://github.com/ahoshiro/FriendFinder/app/images/Survey.jpg)
