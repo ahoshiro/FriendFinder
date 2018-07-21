@@ -1,0 +1,24 @@
+{
+  "name": "homework-13",
+  "version": "1.0.0",
+  "description": "Friendfinder app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/ahoshiro/FriendFinder.git"
+  },
+  "keywords": [
+    "FriendFinder"
+  ],
+  "author": "Al Oshiro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
