@@ -21,4 +21,4 @@ To run the server.js interface please follow the steps below:
 Home page:
 ![Home Page](https://github.com/ahoshiro/FriendFinder/blob/master/app/images/Home%20page.jpg)
 ![Survey Page](https://github.com/ahoshiro/FriendFinder/blob/master/app/images/survey.png)
-![See How it runs](https://drive.google.com/file/d/1UeoRV19JRUVfGXkmYwccMDCOWW4O9f6a/view)
+[![See How it runs](https://drive.google.com/file/d/1UeoRV19JRUVfGXkmYwccMDCOWW4O9f6a/view)](https://drive.google.com/file/d/1UeoRV19JRUVfGXkmYwccMDCOWW4O9f6a/view)
